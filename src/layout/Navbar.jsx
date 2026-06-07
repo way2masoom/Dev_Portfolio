@@ -1,3 +1,6 @@
 export const Navbar = () => {
-    return <header> navbar </header>
+    return(
+    <header> <nav>
+        </nav> </header>
+    )
 }
