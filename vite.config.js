@@ -13,6 +13,11 @@ const __dirname = path.dirname(__filename) // Get the current directory path
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  server: {
+    watch: {
+      usePolling: true,
+    },
+  },
   // Configure path aliases
   resolve: {
     alias: {
