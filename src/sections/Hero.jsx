@@ -1,6 +1,6 @@
 import { AnimatedBorderButton } from "../components/AnimatedBorderButton"
 import { Button } from "../components/Button"
-import { ArrowRight,Download,} from "lucide-react";
+import { ArrowRight, Download, } from "lucide-react";
 
 export const Hero = () => {
     return (
@@ -23,8 +23,8 @@ export const Hero = () => {
                             backgroundColor: "#20B2A6",
                             left: `${Math.random() * 100}%`,
                             top: `${Math.random() * 100}%`,
-                            animation: `slow-drift ${15 + Math.random() * 20
-                                }s ease-in-out infinite`,
+                            animation: `slow-drift ${15 + Math.random() * 20}s 
+                            ease-in-out infinite`,
                             animationDelay: `${Math.random() * 5}s`
                         }}
                     />
@@ -62,7 +62,7 @@ export const Hero = () => {
                     </div>
                     {/* CTAs */}
                     <div className="flex flex-wrap gap-4 animate-fade-in animation-delay-300">
-                        <Button size="sm">
+                        <Button size="large">
                             Contact Me <ArrowRight className="w-5 h-5" />
                         </Button>
                         <AnimatedBorderButton>
@@ -70,7 +70,9 @@ export const Hero = () => {
                             Download CV
                         </AnimatedBorderButton>
                     </div>
-                    
+
+
+
                     {/* Right-colum for the Profile image  */}
                 </div>
             </div>
