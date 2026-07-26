@@ -16,7 +16,7 @@ const projects = [
         title: "JavaScript Projects",
         description:
             "A collection of JavaScript projects including Password Generator, Todo App, Color Changer and more to strengthen core JavaScript concepts.",
-        image: "projects/javascript.png",
+        image: "projects/javascriptProjects.png",
         tags: ["JavaScript", "HTML", "CSS", "DOM"],
         link: "https://github.com/way2masoom/JavaScriptProjects", // Replace later
         github: "https://github.com/way2masoom/JavaScriptProjects",
@@ -25,7 +25,7 @@ const projects = [
         title: "Weather App",
         description:
             "A responsive weather application that will display real-time weather forecasts using Weather API, location search and modern UI.",
-        image: "projects/weather.png",
+        image: "projects/weatherApp.png",
         tags: ["React", "Weather API", "Tailwind CSS", "Coming Soon"],
         link: "#",
         github: "#",
