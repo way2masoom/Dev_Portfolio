@@ -1,17 +1,168 @@
-# React + Vite
+# 🚀 Dev Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and interactive **Developer Portfolio** built to showcase my skills, projects, experience, and achievements. This portfolio highlights my journey as a frontend developer and serves as my personal website for recruiters, developers, and anyone interested in my work.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 **Portfolio:** https://dev-portfolio-black-two.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Portfolio Preview
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img src="https://github.com/way2masoom/Dev_Portfolio/blob/main/public/projects/portfolio.png?raw=true" alt="Dev Portfolio Preview" width="100%">
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Dev_Portfolio
+---
+
+## ✨ Features
+
+- 🎨 Modern & Clean UI
+- 📱 Fully Responsive Design
+- ⚡ Lightning Fast Performance
+- 🌙 Dark Theme
+- 👨‍💻 About Me Section
+- 🛠️ Skills Showcase
+- 💼 Featured Projects
+- 📄 Resume Download
+- 📬 Contact Section
+- 🔗 Social Media Integration
+- ✨ Smooth Animations & Transitions
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Tools
+
+- Vite
+- Git
+- GitHub
+- VS Code
+
+### Deployment
+
+- Vercel
+
+---
+
+## 📂 Project Structure
+
+```text
+Dev_Portfolio/
+│
+├── public/
+│   ├── projects/
+│   └── ...
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/way2masoom/Dev_Portfolio.git
+```
+
+### Navigate to the Project
+
+```bash
+cd Dev_Portfolio
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
+---
+
+## 📌 Portfolio Sections
+
+- 🏠 Home
+- 👨‍💻 About
+- 🛠️ Skills
+- 💼 Projects
+- 🎓 Education
+- 📄 Resume
+- 📬 Contact
+
+---
+
+## 💻 Featured Projects
+
+Some of the projects showcased in this portfolio include:
+
+- 🎯 Hangman Game
+- ✅ Todo App
+- 🔐 Password Generator
+- 🎨 Color Changer
+- 🌐 And many more...
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** https://github.com/way2masoom
+- **LinkedIn:** https://linkedin.com/in/way2masoom
+- **Instagram:** https://instagram.com/theboring.engineer
+- **YouTube:** https://youtube.com/@theboringengineer1
+
+---
+
+## ⭐ Support
+
+If you found this project helpful or inspiring, please consider giving it a ⭐ on GitHub.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+<p align="center">
+Made with ❤️ by <strong>Masoom Alam</strong>
+</p>
