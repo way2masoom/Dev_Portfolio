@@ -88,10 +88,8 @@ export const Footer = () => {
 
                         </div>
 
-                        <a
-                            href="#hero"
-                            className="flex items-center gap-2 text-sm text-primary hover:-translate-y-1 transition-all duration-300"
-                        >
+                        <a href="#"
+                            className="flex items-center gap-2 text-sm text-primary hover:-translate-y-1 transition-all duration-300">
                             Back to Top
                             <ArrowUp className="w-4 h-4" />
                         </a>
