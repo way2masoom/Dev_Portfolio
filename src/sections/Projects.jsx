@@ -7,7 +7,7 @@ const projects = [
         title: "HangMan Game",
         description:
             "A modern Hangman game built with React featuring routing, reusable components, responsive UI, and interactive gameplay.",
-        image: "../../public/projects/hangman.png",
+        image: "./public/projects/hangman.png",
         tags: ["React", "JavaScript", "React Router", "Tailwind CSS"],
         link: "https://github.com/way2masoom/HangManGame", // Replace with your live demo later
         github: "https://github.com/way2masoom/HangManGame",
@@ -16,7 +16,7 @@ const projects = [
         title: "JavaScript Projects",
         description:
             "A collection of JavaScript projects including Password Generator, Todo App, Color Changer and more to strengthen core JavaScript concepts.",
-        image: "../../public/projects/javascriptProjects.png",
+        image: "./public/projects/jsProjects.png",
         tags: ["JavaScript", "HTML", "CSS", "DOM"],
         link: "https://github.com/way2masoom/JavaScriptProjects", // Replace later
         github: "https://github.com/way2masoom/JavaScriptProjects",
@@ -25,7 +25,7 @@ const projects = [
         title: "Weather App",
         description:
             "A responsive weather application that will display real-time weather forecasts using Weather API, location search and modern UI.",
-        image: "../../public/projects/weatherApp.png",
+        image: "./public/projects/weatherApp.png",
         tags: ["React", "Weather API", "Tailwind CSS", "Coming Soon"],
         link: "#",
         github: "#",
@@ -34,7 +34,7 @@ const projects = [
         title: "Portfolio Website",
         description:
             "My personal portfolio built with React and Tailwind CSS showcasing my projects, skills and experience with modern animations.",
-        image: "../../public/projects/portfolio.png",
+        image: "./public/projects/portfolio.png",
         tags: ["React", "Tailwind CSS", "Vite", "Responsive"],
         link: "#",
         github: "#",
