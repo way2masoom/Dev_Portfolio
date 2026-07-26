@@ -41,6 +41,7 @@ A modern, responsive, and interactive **Developer Portfolio** built to showcase 
 - HTML5
 - CSS3
 - Tailwind CSS
+- EmailJs
 
 ### Tools
 
@@ -147,7 +148,6 @@ Some of the projects showcased in this portfolio include:
 - **GitHub:** https://github.com/way2masoom
 - **LinkedIn:** https://linkedin.com/in/way2masoom
 - **Instagram:** https://instagram.com/theboring.engineer
-- **YouTube:** https://youtube.com/@theboringengineer1
 
 ---
 
