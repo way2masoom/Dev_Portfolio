@@ -3,7 +3,7 @@ import { ArrowRight, ChevronDown, Download, } from "lucide-react";
 
 import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 
-const skills = ["React", "Next.js", "TypeScript", "Node.js", "GraphQL", "PostgreSQL", "MongoDB", "Redis", "Docker", "AWS", "Vercel", "Tailwind CSS", "Prisma", "Jest", "Cypress", "Figma", "Git", "GitHub Actions",
+const skills = ["React", "Next.js", "TypeScript", "Node.js", "SQL", "MongoDB", "Redis", "Docker", "AWS", "Vercel", "Tailwind CSS", "Prisma", "Jest", "Figma", "Git", "GitHub Actions",
 ];
 
 
